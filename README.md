@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olopet
-- 👀 I’m interested in ... coding, game development, crypto? who knows. Just learning programming.
-- 🌱 I’m currently learning ... game development, git, C#, azure web devleopment
-- 💞️ I’m looking to collaborate on ... nothign at the moment
+- 👀 I’m interested in ... coding, game development, crypto, kubernetes, AI and all that jazz, who knows. Just learning programming.
+- 🌱 I’m currently learning ... game development, git, C#, devops, kubernetes
+- 💞️ I’m looking to collaborate on ... a rust-driven text editor that aims to make notepad++ obsolete.
 - 📫 How to reach me ... here?
 
 <!---
